@@ -1,0 +1,1721 @@
+Cloning into 'qiuqien_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/qiuqien_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-09 20:30:55] "POST /message HTTP/1.0" 200 136 15.539484
+127.0.0.1 - - [2024-04-09 20:31:06] "POST /message HTTP/1.0" 200 136 8.391999
+sh: 1: Syntax error: "(" unexpected
+127.0.0.1 - - [2024-04-09 20:31:18] "POST /message HTTP/1.0" 200 136 9.736556
+127.0.0.1 - - [2024-04-09 20:31:35] "POST /message HTTP/1.0" 200 136 8.390175
+Cloning into 'qiuqien_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/qiuqien_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-09 20:31:50] "POST /message HTTP/1.0" 200 136 15.174544
+127.0.0.1 - - [2024-04-09 20:31:58] "POST /message HTTP/1.0" 200 136 8.305576
+127.0.0.1 - - [2024-04-09 20:31:58] "GET / HTTP/1.0" 200 147 0.000368
+127.0.0.1 - - [2024-04-09 20:32:07] "POST /message HTTP/1.0" 200 136 8.541741
+Cloning into 'qiuqien_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/qiuqien_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-09 20:32:47] "POST /message HTTP/1.0" 200 136 7.853063
+127.0.0.1 - - [2024-04-09 20:32:55] "POST /message HTTP/1.0" 200 136 8.629393
+127.0.0.1 - - [2024-04-09 20:32:58] "POST /message HTTP/1.0" 200 136 0.851006
+127.0.0.1 - - [2024-04-09 20:33:12] "POST /message HTTP/1.0" 200 136 8.478045
+127.0.0.1 - - [2024-04-09 20:36:09] "POST /message HTTP/1.0" 200 136 8.705429
+127.0.0.1 - - [2024-04-09 20:36:38] "POST /message HTTP/1.0" 200 136 8.338592
+127.0.0.1 - - [2024-04-09 20:36:57] "POST /message HTTP/1.0" 200 136 8.645519
+127.0.0.1 - - [2024-04-09 20:38:23] "POST /message HTTP/1.0" 200 136 0.919409
+127.0.0.1 - - [2024-04-09 20:38:36] "POST /message HTTP/1.0" 200 136 8.441046
+127.0.0.1 - - [2024-04-09 20:39:11] "POST /message HTTP/1.0" 200 136 8.237960
+127.0.0.1 - - [2024-04-09 20:43:11] "POST /message HTTP/1.0" 200 136 8.508247
+127.0.0.1 - - [2024-04-09 20:43:47] "POST /message HTTP/1.0" 200 136 8.278927
+127.0.0.1 - - [2024-04-09 20:45:10] "POST /message HTTP/1.0" 200 136 8.287349
+127.0.0.1 - - [2024-04-09 20:46:10] "POST /message HTTP/1.0" 200 136 8.315394
+127.0.0.1 - - [2024-04-09 20:46:50] "POST /message HTTP/1.0" 200 136 8.539423
+127.0.0.1 - - [2024-04-09 20:47:58] "POST /message HTTP/1.0" 200 136 8.164671
+127.0.0.1 - - [2024-04-09 20:49:50] "POST /message HTTP/1.0" 200 136 8.391260
+127.0.0.1 - - [2024-04-09 20:50:31] "POST /message HTTP/1.0" 200 136 8.444450
+127.0.0.1 - - [2024-04-09 20:51:03] "POST /message HTTP/1.0" 200 136 8.454909
+127.0.0.1 - - [2024-04-09 20:51:43] "POST /message HTTP/1.0" 200 136 8.806077
+Cloning into 'qiuqien_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/qiuqien_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-09 20:51:51] "POST /message HTTP/1.0" 200 136 7.671830
+127.0.0.1 - - [2024-04-09 20:51:58] "POST /message HTTP/1.0" 200 136 0.863335
+127.0.0.1 - - [2024-04-09 20:54:25] "POST /message HTTP/1.0" 200 136 10.000110
+127.0.0.1 - - [2024-04-09 20:57:27] "POST /message HTTP/1.0" 200 136 9.393681
+Cloning into 'qiuqien_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/qiuqien_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-09 21:29:23] "POST /message HTTP/1.0" 200 136 7.868618
+127.0.0.1 - - [2024-04-09 21:29:35] "POST /message HTTP/1.0" 200 136 0.902644
+127.0.0.1 - - [2024-04-09 21:31:42] "POST /message HTTP/1.0" 200 136 8.397213
+127.0.0.1 - - [2024-04-09 21:32:53] "POST /message HTTP/1.0" 200 136 8.421012
+127.0.0.1 - - [2024-04-09 21:33:16] "POST /message HTTP/1.0" 200 136 8.177840
+127.0.0.1 - - [2024-04-09 21:36:13] "POST /message HTTP/1.0" 200 136 8.436899
+127.0.0.1 - - [2024-04-09 21:36:41] "POST /message HTTP/1.0" 200 136 8.180770
+127.0.0.1 - - [2024-04-09 21:37:01] "POST /message HTTP/1.0" 200 136 8.161081
+Cloning into 'qiuqien_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/qiuqien_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-09 22:45:30] "POST /message HTTP/1.0" 200 136 7.597168
+127.0.0.1 - - [2024-04-09 22:45:42] "POST /message HTTP/1.0" 200 136 0.858528
+Cloning into 'qiuqien_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/qiuqien_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+/home/zzy/X-Check
+joshuaqie qiuqien_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:atrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 111
+Correct: 123
+Wrong
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:atrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+joshuaqie qiuqien_hw1](http:
+重复消息
+joshuaqie qiuqien_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:atrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 111
+Correct: 123
+Wrong
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:atrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+重复消息
+joshuaqie qiuqien_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:atrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 111
+Correct: 123
+Wrong
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:atrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+joshuaqie qiuqien_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:atrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 111
+Correct: 123
+Wrong
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:atrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+重复消息
+重复消息
+joshuaqie qiuqien_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:atrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 223
+Correct: 123
+Wrong
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:atrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+joshuaqie qiuqien_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:atrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 223
+Correct: 123
+Wrong
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:atrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+joshuaqie qiuqien_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+127.0.0.1 - - [2024-04-09 23:05:38] "POST /message HTTP/1.0" 200 136 7.621517
+127.0.0.1 - - [2024-04-09 23:05:50] "POST /message HTTP/1.0" 200 136 0.857222
+127.0.0.1 - - [2024-04-10 00:22:08] "POST /message HTTP/1.0" 200 136 9.224624
+[2024-04-10 00:22:18,500] ERROR in app: Exception on /message [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/zzy/X-Check/main.py", line 33, in get_message
+    message = json.loads(data['event']['message']['content'])['text']
+KeyError: 'text'
+127.0.0.1 - - [2024-04-10 00:22:18] "POST /message HTTP/1.0" 500 420 7.774187
+127.0.0.1 - - [2024-04-10 00:22:26] "POST /message HTTP/1.0" 200 136 7.798284
+127.0.0.1 - - [2024-04-10 00:22:36] "POST /message HTTP/1.0" 200 136 9.314073
+[2024-04-10 00:22:43,824] ERROR in app: Exception on /message [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/zzy/X-Check/main.py", line 33, in get_message
+    message = json.loads(data['event']['message']['content'])['text']
+KeyError: 'text'
+127.0.0.1 - - [2024-04-10 00:22:43] "POST /message HTTP/1.0" 500 420 7.800637
+127.0.0.1 - - [2024-04-10 00:22:53] "POST /message HTTP/1.0" 200 136 7.765297
+127.0.0.1 - - [2024-04-10 00:27:29] "POST /message HTTP/1.0" 200 136 7.883915
+[2024-04-10 00:27:41,608] ERROR in app: Exception on /message [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/zzy/X-Check/main.py", line 33, in get_message
+    message = json.loads(data['event']['message']['content'])['text']
+KeyError: 'text'
+127.0.0.1 - - [2024-04-10 00:27:41] "POST /message HTTP/1.0" 500 420 7.739563
+127.0.0.1 - - [2024-04-10 00:27:57] "POST /message HTTP/1.0" 200 136 7.749640
+127.0.0.1 - - [2024-04-10 00:45:24] "POST /message HTTP/1.0" 200 136 0.867710
+127.0.0.1 - - [2024-04-10 01:17:55] "POST /message HTTP/1.0" 200 136 0.857419
+127.0.0.1 - - [2024-04-10 01:27:33] "POST /message HTTP/1.0" 200 136 7.773254
+[2024-04-10 01:27:44,953] ERROR in app: Exception on /message [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/zzy/X-Check/main.py", line 33, in get_message
+    message = json.loads(data['event']['message']['content'])['text']
+KeyError: 'text'
+127.0.0.1 - - [2024-04-10 01:27:44] "POST /message HTTP/1.0" 500 420 7.677002
+127.0.0.1 - - [2024-04-10 01:28:00] "POST /message HTTP/1.0" 200 136 7.834939
+127.0.0.1 - - [2024-04-10 02:38:38] "POST /message HTTP/1.0" 200 136 7.512721
+127.0.0.1 - - [2024-04-10 02:39:14] "POST /message HTTP/1.0" 200 136 7.597859
+127.0.0.1 - - [2024-04-10 02:43:14] "POST /message HTTP/1.0" 200 136 7.600292
+127.0.0.1 - - [2024-04-10 02:43:50] "POST /message HTTP/1.0" 200 136 7.771978
+127.0.0.1 - - [2024-04-10 02:45:12] "POST /message HTTP/1.0" 200 136 7.547229
+127.0.0.1 - - [2024-04-10 02:46:13] "POST /message HTTP/1.0" 200 136 7.564048
+127.0.0.1 - - [2024-04-10 02:46:53] "POST /message HTTP/1.0" 200 136 7.541672
+127.0.0.1 - - [2024-04-10 02:48:00] "POST /message HTTP/1.0" 200 136 7.682004
+127.0.0.1 - - [2024-04-10 02:49:53] "POST /message HTTP/1.0" 200 136 7.484773
+127.0.0.1 - - [2024-04-10 02:50:34] "POST /message HTTP/1.0" 200 136 7.719823
+127.0.0.1 - - [2024-04-10 02:51:05] "POST /message HTTP/1.0" 200 136 7.638368
+127.0.0.1 - - [2024-04-10 02:51:46] "POST /message HTTP/1.0" 200 136 7.767798
+127.0.0.1 - - [2024-04-10 02:54:27] "POST /message HTTP/1.0" 200 136 7.844381
+127.0.0.1 - - [2024-04-10 02:57:29] "POST /message HTTP/1.0" 200 136 7.878550
+127.0.0.1 - - [2024-04-10 03:31:44] "POST /message HTTP/1.0" 200 136 7.641579
+127.0.0.1 - - [2024-04-10 03:32:56] "POST /message HTTP/1.0" 200 136 7.538286
+127.0.0.1 - - [2024-04-10 03:33:18] "POST /message HTTP/1.0" 200 136 7.494648
+127.0.0.1 - - [2024-04-10 03:36:15] "POST /message HTTP/1.0" 200 136 7.752856
+127.0.0.1 - - [2024-04-10 03:36:43] "POST /message HTTP/1.0" 200 136 7.568651
+127.0.0.1 - - [2024-04-10 03:37:03] "POST /message HTTP/1.0" 200 136 7.682080
+127.0.0.1 - - [2024-04-10 07:27:36] "POST /message HTTP/1.0" 200 136 7.900739
+[2024-04-10 07:27:48,120] ERROR in app: Exception on /message [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/zzy/X-Check/main.py", line 33, in get_message
+    message = json.loads(data['event']['message']['content'])['text']
+KeyError: 'text'
+127.0.0.1 - - [2024-04-10 07:27:48] "POST /message HTTP/1.0" 500 420 7.793816
+127.0.0.1 - - [2024-04-10 07:28:04] "POST /message HTTP/1.0" 200 136 8.428630
+sh: 1: Syntax error: ")" unexpected
+127.0.0.1 - - [2024-04-10 11:22:58] "POST /message HTTP/1.0" 200 136 2.091686
+Cloning into 'hw1'...
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-10 11:25:06] "POST /message HTTP/1.0" 200 136 7.447423
+127.0.0.1 - - [2024-04-10 11:25:18] "POST /message HTTP/1.0" 200 136 0.566002
+Cloning into 'hw1'...
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-10 15:02:46] "POST /message HTTP/1.0" 200 136 7.669841
+127.0.0.1 - - [2024-04-10 15:02:58] "POST /message HTTP/1.0" 200 136 0.614025
+Cloning into 'hw1'...
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-10 15:25:25] "POST /message HTTP/1.0" 200 136 7.813649
+127.0.0.1 - - [2024-04-10 15:25:38] "POST /message HTTP/1.0" 200 136 1.044709
+Cloning into 'hw1'...
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-10 15:33:02] "POST /message HTTP/1.0" 200 136 8.170600
+127.0.0.1 - - [2024-04-10 15:33:14] "POST /message HTTP/1.0" 200 136 1.060280
+Cloning into 'hw1'...
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-10 15:56:12] "POST /message HTTP/1.0" 200 136 8.828343
+127.0.0.1 - - [2024-04-10 15:56:22] "POST /message HTTP/1.0" 200 136 0.957273
+Cloning into 'hw1'...
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-10 16:01:43] "POST /message HTTP/1.0" 200 136 7.949130
+127.0.0.1 - - [2024-04-10 16:01:55] "POST /message HTTP/1.0" 200 136 0.985455
+Cloning into 'hw1'...
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-10 16:08:32] "POST /message HTTP/1.0" 200 136 7.881875
+127.0.0.1 - - [2024-04-10 16:08:43] "POST /message HTTP/1.0" 200 136 0.968473
+Cloning into 'liuyangzhi_hw1.git'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+127.0.0.1 - - [2024-04-10 17:03:44] "POST /message HTTP/1.0" 200 136 5.428361
+127.0.0.1 - - [2024-04-10 17:03:57] "POST /message HTTP/1.0" 200 136 0.561486
+sh: 1: Syntax error: "(" unexpected
+127.0.0.1 - - [2024-04-10 17:04:10] "POST /message HTTP/1.0" 200 136 2.260288
+sh: 1: Syntax error: "(" unexpected
+127.0.0.1 - - [2024-04-10 17:04:27] "POST /message HTTP/1.0" 200 136 1.988622
+Cloning into 'liuyangzhi_hw1'...
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/liuyangzhi_hw1/build
+127.0.0.1 - - [2024-04-10 17:07:41] "POST /message HTTP/1.0" 200 136 7.167067
+127.0.0.1 - - [2024-04-10 17:07:52] "POST /message HTTP/1.0" 200 136 0.544410
+sh: 1: Syntax error: "(" unexpected
+127.0.0.1 - - [2024-04-10 17:08:12] "POST /message HTTP/1.0" 200 136 2.268408
+sh: 1: Syntax error: "(" unexpected
+127.0.0.1 - - [2024-04-10 17:08:34] "POST /message HTTP/1.0" 200 136 2.016114
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 223
+Correct: 123
+Wrong
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+重复消息
+cccccyk hw1)
+cccccyk hw1
+Output: 
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Wrong
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 
+Correct: 2.404.6011.406.809.2019.20
+Wrong
+Output: 
+Correct: 1.204.102.305.203.606.80
+Wrong
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 0.000.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Wrong
+Output: 
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Wrong
+重复消息
+cccccyk hw1
+Output: 4.205.607.5010.802.103.205.405.50
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Wrong
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 
+Correct: 2.404.6011.406.809.2019.20
+Wrong
+Output: 
+Correct: 1.204.102.305.203.606.80
+Wrong
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 0.000.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.400.10-0.80-0.601.50
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Wrong
+Output: 
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Wrong
+重复消息
+cccccyk hw1
+Output: 4.205.607.5010.80Error:Matricesdimensionsdonotmatch.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Wrong
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 
+Correct: 2.404.6011.406.809.2019.20
+Wrong
+Output: 
+Correct: 1.204.102.305.203.606.80
+Wrong
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 0.000.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matricesdimensionsdonotmatch.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Wrong
+Output: 
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Wrong
+重复消息
+cccccyk hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 
+Correct: 2.404.6011.406.809.2019.20
+Wrong
+Output: 
+Correct: 1.204.102.305.203.606.80
+Wrong
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 0.000.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Wrong
+重复消息
+cccccyk hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 
+Correct: 1.204.102.305.203.606.80
+Wrong
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 0.000.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+cccccyk hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 
+Correct: 1.204.102.305.203.606.80
+Wrong
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 0.000.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+cccccyk hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 0.000.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+miletlove liuyangzhi_hw1.git
+重复消息
+miletlove liuyangzhi_hw1.git](https:
+miletlove liuyangzhi_hw1](https:
+miletlove liuyangzhi_hw1
+重复消息
+miletlove liuyangzhi_hw1](https:
+miletlove liuyangzhi_hw1](https:
+sh: 1: Syntax error: "(" unexpected
+127.0.0.1 - - [2024-04-10 17:10:02] "POST /message HTTP/1.0" 200 136 2.181319
+Cloning into 'liuyangzhi_hw1'...
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/liuyangzhi_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-10 17:32:16] "POST /message HTTP/1.0" 200 136 7.432578
+127.0.0.1 - - [2024-04-10 17:32:27] "POST /message HTTP/1.0" 200 136 0.601979
+Cloning into 'jdj_hw1.git'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+127.0.0.1 - - [2024-04-10 23:28:11] "POST /message HTTP/1.0" 200 136 5.472836
+127.0.0.1 - - [2024-04-10 23:28:23] "POST /message HTTP/1.0" 200 136 0.534415
+Cloning into 'jdj_hw1.git'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+127.0.0.1 - - [2024-04-10 23:37:40] "POST /message HTTP/1.0" 200 136 5.281845
+127.0.0.1 - - [2024-04-10 23:37:54] "POST /message HTTP/1.0" 200 136 0.506594
+Cloning into 'jdj_hw1.git'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+127.0.0.1 - - [2024-04-11 11:16:44] "POST /message HTTP/1.0" 200 136 5.625025
+127.0.0.1 - - [2024-04-11 11:16:59] "POST /message HTTP/1.0" 200 136 1.479476
+127.0.0.1 - - [2024-04-11 12:47:34] "POST /message HTTP/1.0" 200 136 1.845343
+Cloning into 'jdj_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/jdj_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-11 12:48:04] "POST /message HTTP/1.0" 200 136 7.695630
+127.0.0.1 - - [2024-04-11 12:48:16] "POST /message HTTP/1.0" 200 136 0.543802
+Cloning into 'Fan-Haoran_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/Fan-Haoran_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+/usr/bin/ld: CMakeFiles/main.dir/src/algebra.o: in function `inv_matrix':
+algebra.c:(.text+0xe66): undefined reference to `pow'
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/main.dir/build.make:113: ../bin/main] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/main.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2
+127.0.0.1 - - [2024-04-11 19:24:23] "POST /message HTTP/1.0" 200 136 7.338212
+127.0.0.1 - - [2024-04-11 19:24:35] "POST /message HTTP/1.0" 200 136 0.526905
+Cloning into 'Fan-Haoran_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/Fan-Haoran_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+/usr/bin/ld: CMakeFiles/main.dir/src/algebra.o: in function `inv_matrix':
+algebra.c:(.text+0xe66): undefined reference to `pow'
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/main.dir/build.make:113: ../bin/main] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/main.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2
+127.0.0.1 - - [2024-04-11 19:34:22] "POST /message HTTP/1.0" 200 136 7.816597
+127.0.0.1 - - [2024-04-11 19:34:34] "POST /message HTTP/1.0" 200 136 0.526962
+Cloning into 'Fan-Haoran_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/Fan-Haoran_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+/usr/bin/ld: CMakeFiles/main.dir/src/algebra.o: in function `inv_matrix':
+algebra.c:(.text+0xe66): undefined reference to `pow'
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/main.dir/build.make:113: ../bin/main] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/main.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2
+127.0.0.1 - - [2024-04-11 19:50:21] "POST /message HTTP/1.0" 200 136 7.532457
+127.0.0.1 - - [2024-04-11 19:50:33] "POST /message HTTP/1.0" 200 136 0.578621
+Cloning into 'Fan-Haoran_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/Fan-Haoran_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+/usr/bin/ld: CMakeFiles/main.dir/src/algebra.o: in function `inv_matrix':
+algebra.c:(.text+0xe66): undefined reference to `pow'
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/main.dir/build.make:113: ../bin/main] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/main.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2
+127.0.0.1 - - [2024-04-11 19:51:51] "POST /message HTTP/1.0" 200 136 7.345064
+127.0.0.1 - - [2024-04-11 19:52:02] "POST /message HTTP/1.0" 200 136 0.543644
+Cloning into 'Fan-Haoran_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/Fan-Haoran_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-11 20:03:27] "POST /message HTTP/1.0" 200 136 7.315095
+127.0.0.1 - - [2024-04-11 20:03:38] "POST /message HTTP/1.0" 200 136 0.533935
+sh: 1: Syntax error: ")" unexpected
+127.0.0.1 - - [2024-04-11 20:55:51] "POST /message HTTP/1.0" 200 136 1.879831
+Cloning into 'answer'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/answer/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-11 20:58:01] "POST /message HTTP/1.0" 200 136 15.167553
+Cloning into 'jdj_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/jdj_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-11 20:58:09] "POST /message HTTP/1.0" 200 136 7.606610
+127.0.0.1 - - [2024-04-11 20:58:17] "POST /message HTTP/1.0" 200 136 8.382303
+127.0.0.1 - - [2024-04-11 20:58:18] "POST /message HTTP/1.0" 200 136 0.529796
+127.0.0.1 - - [2024-04-11 21:03:18] "POST /message HTTP/1.0" 200 136 9.211233
+127.0.0.1 - - [2024-04-11 21:03:18] "POST /message HTTP/1.0" 200 136 0.538873
+Cloning into 'jdj_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/jdj_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-11 21:15:23] "POST /message HTTP/1.0" 200 136 7.475329
+127.0.0.1 - - [2024-04-11 21:15:34] "POST /message HTTP/1.0" 200 136 0.500485
+Cloning into 'Fan-Haoran_hw1'...
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/Fan-Haoran_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+miletlove hw1](https:
+miletlove liuyangzhi_hw1
+Output: 4.205.607.5010.802.103.205.405.50
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Wrong
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 
+Correct: 1.204.102.305.203.606.80
+Wrong
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 0.000.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols-2.00-3.00-2.70-3.40
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Wrong
+Output: 10.0713.4621.9430.0235.7147.8377.66108.72Error:Matrixa'scolsmustbethesamewithb'srows35.7147.8377.66108.72
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Wrong
+重复消息
+Ming2ya jdj_hw1.git
+重复消息
+Ming2ya jdj_hw1.git
+重复消息
+Ming2ya jdj_hw1.git
+重复消息
+Ming2ya jdj_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 9.0012.0021.0029.0024.0033.0055.0078.00Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Wrong
+重复消息
+JAC235 Fan-Haoran_hw1
+重复消息
+JAC235 Fan-Haoran_hw1
+重复消息
+JAC235 Fan-Haoran_hw1
+重复消息
+JAC235 Fan-Haoran_hw1
+重复消息
+JAC235 Fan-Haoran_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.71-0.77Error:Thematrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 123
+Correct: 123
+Correct
+Output: -1.080.621.00-0.32-7.99-3.827.916.560.35-4.18-0.711.17-1.04Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+重复消息
+Ming2ya jdj_hw1)
+zjuxlab answer
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 123
+Correct: 123
+Correct
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Correct
+Ming2ya jdj_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Wrong
+重复消息
+重复消息
+重复消息
+重复消息
+Ming2ya jdj_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 0.000.000.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Wrong
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 000
+Correct: 123
+Wrong
+Output: 
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Wrong
+Output: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 10.0713.4621.9430.0225.6434.3755.7278.70Error:Thenumberofcolsofmatrixamustbeequaltothenumberofrowsofmatrixb.
+Wrong
+重复消息
+JAC235 Fan-Haoran_hw1
+Output: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: 4.205.607.5010.80Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Correct: -3.712.23Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: 2.404.6011.406.809.2019.20
+Correct: 2.404.6011.406.809.2019.20
+Correct
+Output: 1.204.102.305.203.606.80
+Correct: 1.204.102.305.203.606.80
+Correct
+Output: 123
+Correct: 123
+Correct
+Output: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct: -1.080.621.00-0.322.751.32-2.72-2.26-0.121.440.25-0.400.36Error:Thematrixissingular.Error:Thematrixmustbeasquarematrix.
+Correct
+Output: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct: 10.00Error:Thematrixmustbeasquarematrix.0.00
+Correct
+Output: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct: -2.00-3.00-2.70-3.40Error:Matrixaandbmusthavethesamerowsandcols.
+Correct
+Output: 127.0.0.1 - - [2024-04-11 21:50:32] "POST /message HTTP/1.0" 200 136 7.576016
+127.0.0.1 - - [2024-04-11 21:50:44] "POST /message HTTP/1.0" 200 136 0.514208
+127.0.0.1 - - [2024-04-11 22:03:21] "POST /message HTTP/1.0" 200 136 8.376522
+Cloning into 'liuyangzhi_hw1'...
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zzy/liuyangzhi_hw1/build
+[ 33%] Building C object CMakeFiles/main.dir/src/algebra.c.o
+[ 66%] Building C object CMakeFiles/main.dir/src/main.c.o
+[100%] Linking C executable ../bin/main
+[100%] Built target main
+127.0.0.1 - - [2024-04-11 23:18:00] "POST /message HTTP/1.0" 200 136 7.439868
+127.0.0.1 - - [2024-04-11 23:18:12] "POST /message HTTP/1.0" 200 136 0.508620
+127.0.0.1 - - [2024-04-12 04:03:24] "POST /message HTTP/1.0" 200 136 7.795709

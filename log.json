@@ -1,0 +1,34 @@
+{
+    "schema": 2,
+    "header": {
+        "event_id": "5057b6b4e86e10fa0016e02885e9ab03",
+        "token": "",
+        "create_time": 1711633126280,
+        "event_type": "im.message.receive_v1",
+        "tenant_key": "11761bbf054f9740",
+        "app_id": "cli_a58d5eca27bf100d"
+    },
+    "event": {
+        "message": {
+            "chat_id": "oc_889307cd24676b019c46af0cf4fe8ae2",
+            "chat_type": "p2p",
+            "content": {
+                "text": "你好"
+            },
+            "create_time": 1711633126083,
+            "message_id": "om_0257024c1c3680519aa7b6d6ae552899",
+            "message_type": "text",
+            "update_time": 1711633126083,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1 Lark/7.13.18 LarkLocale/zh_CN ChannelName/Feishu ttnet SDK-Version/7.13.14"
+        },
+        "sender": {
+            "sender_id": {
+                "open_id": "ou_2b6a907c28739ded2d6f0d5038301f28",
+                "union_id": "on_7796eecfabae341b252cfb3cc8894595",
+                "user_id": "f22gcabg"
+            },
+            "sender_type": "user",
+            "tenant_key": "11761bbf054f9740"
+        }
+    }
+}

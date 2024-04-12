@@ -1,0 +1,3 @@
+-2.00   -3.00    
+-2.70   -3.40
+Error: Matrix a and b must have the same rows and cols.

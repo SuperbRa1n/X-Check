@@ -1,0 +1,3 @@
+10.00
+Error: The matrix must be a square matrix.
+0.00
